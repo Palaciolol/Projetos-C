@@ -22,3 +22,6 @@
 [submodule "lab-08-Palaciolol"]
 	path = lab-08-Palaciolol
 	url = git@github.com:MC202AB-2023s2/lab-08-Palaciolol.git
+[submodule "lab-09-segunda-chance-Palaciolol"]
+	path = lab-09-segunda-chance-Palaciolol
+	url = git@github.com:MC202AB-2023s2/lab-09-segunda-chance-Palaciolol.git
