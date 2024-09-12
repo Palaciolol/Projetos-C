@@ -6,3 +6,6 @@
 [submodule "lab-02-Palaciolol"]
 	path = lab-02-Palaciolol
 	url = git@github.com:MC202AB-2023s2/lab-02-Palaciolol.git
+[submodule "lab-03-Palaciolol"]
+	path = lab-03-Palaciolol
+	url = git@github.com:MC202AB-2023s2/lab-03-Palaciolol.git
